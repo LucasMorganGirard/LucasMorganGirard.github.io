@@ -46,10 +46,6 @@ not_collapsed {
   display: none;
 }
 
-.content {
-  background-image: url(https://www.androsrestauration.fr/media/cache/product_picture_card/uploads/products/andros-pur-jus-ananas-presses-1l_5f1e9baabc9c1.png) !important;
-}
-
 /*remove header*/
 #page-header {
   display: none !important;
@@ -65,7 +61,7 @@ not_collapsed {
 
 * {
   color: black !important;
-  border-color: black !important;
+  border-color: #000000b5 !important;
 }
 
 @media (max-width: 979px) {
@@ -75,5 +71,13 @@ not_collapsed {
 }
 
 a#custom_course_menu_interface {
-  display: none;
+  display: none!important;
+}
+
+.custom_course_menu_category{
+    text-align: center;
+}
+
+.content{
+    border: none;
 }
