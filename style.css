@@ -76,8 +76,11 @@ a#custom_course_menu_interface {
 
 .custom_course_menu_category{
     text-align: center;
+    letter-spacing: 10px;
+    text-transform: uppercase;
 }
 
 .content{
-    border: none;
+    border: none!important;
+    
 }
