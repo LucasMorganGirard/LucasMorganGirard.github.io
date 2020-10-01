@@ -73,3 +73,7 @@ not_collapsed {
     margin-top: 0!important;
   }
 }
+
+a.custom_course_menu_interface {
+  display: none;
+}
