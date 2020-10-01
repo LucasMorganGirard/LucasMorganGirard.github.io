@@ -82,5 +82,8 @@ a#custom_course_menu_interface {
 
 .content{
     border: none!important;
-    
+}
+
+.custom_course_menu_category{
+    margin-bottom: 20px;
 }
